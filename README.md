@@ -20,7 +20,7 @@ Built with npm, Material UI & React
 
 ## <a name="installation"></a>Installation
 
-The App is deployed via Github Pages and can be accessed [here](https://tranquil-atoll-36609.herokuapp.com/)
+The App is deployed via Github Pages and can be accessed [here](https://himanshu-sxna.github.io/react-employee-directory/)
 
 To run app locally, clone the repo and run `npm install` and `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
